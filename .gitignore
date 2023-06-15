@@ -1,0 +1,33 @@
+#data
+/data/
+
+#checkpoints
+/checkpoint/
+/checkpoint_experts
+/ck_backup/
+
+
+# caches
+/utils/__pycache__/
+
+# images
+/utils/images/
+*.pyc
+
+
+# all demo png and csv files
+*.png
+*.csv
+
+/.vscode
+/corrected_images/
+*.tar
+/checkpoint_experts/
+
+*.txt
+
+/forked_repo/wts/
+/forked_repo/data/
+/forked_repo/checkpoint/
+vectors/
+utils.zip
